@@ -60,21 +60,14 @@
     "description": "Những khung hình thực tế được ghi lại trong các dự án của Min Media."
   },
   "videos": [
-    {
-      "id": "video-01",
-      "title": "Video Flycam sự kiện",
-      "description": "Thay bằng mô tả dự án thực tế.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mtKoHc0RwdI",
-      "thumbnail": ""
-    },
-    {
-      "id": "video-02",
-      "title": "Video Flycam ngoại cảnh",
-      "description": "Thay bằng mô tả dự án thực tế.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mtKoHc0RwdI",
-      "thumbnail": ""
-    }
-  ],
+  {
+    "id": "video-01",
+    "title": "Flycam lễ cưới",
+    "description": "Video dự án thực tế.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=BT5wowluQoU&list=PLssBC1_XRCA6vih4DINQ4LRjbyh2P6QxK",
+    "thumbnail": ""
+  }
+],
   "contact": {
     "title": "Bạn có dự án cần quay Flycam?",
     "description": "Liên hệ Min Media để trao đổi về địa điểm, ý tưởng và phương án quay phù hợp.",
