@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "eyebrow": "MIN MEDIA • AERIAL PRODUCTION",
+    "title": "Nhìn thế giới từ một góc nhìn khác.",
+    "description": "Dịch vụ quay Flycam cho tiệc cưới, sự kiện, teambuilding, du lịch và các dự án hình ảnh thương mại.",
+    "image": ""
+  },
+  "intro": {
+    "title": "Ghi lại những khoảnh khắc từ trên cao",
+    "description": "Min Media mang đến góc nhìn toàn cảnh, chuyển động điện ảnh và những khung hình giúp câu chuyện của mỗi dự án trở nên ấn tượng hơn."
+  },
+  "equipment": [
+    {
+      "id": "drone-01",
+      "name": "Dòng Flycam chuyên nghiệp",
+      "model": "Cập nhật tên thiết bị thực tế",
+      "description": "Phù hợp với các dự án cần góc quay rộng, chuyển động mượt và hình ảnh chất lượng cao.",
+      "image": "",
+      "specs": [
+        {
+          "label": "Độ phân giải video",
+          "value": "Cần xác nhận theo thiết bị"
+        },
+        {
+          "label": "Định dạng video",
+          "value": "Cần xác nhận"
+        },
+        {
+          "label": "Thời lượng bay",
+          "value": "Cần xác nhận theo điều kiện bay"
+        }
+      ]
+    },
+    {
+      "id": "drone-02",
+      "name": "Dòng Flycam nhỏ gọn",
+      "model": "Cập nhật tên thiết bị thực tế",
+      "description": "Hướng đến sự linh hoạt khi quay ngoại cảnh, du lịch và các sự kiện cần di chuyển nhanh.",
+      "image": "",
+      "specs": [
+        {
+          "label": "Độ phân giải video",
+          "value": "Cần xác nhận theo thiết bị"
+        },
+        {
+          "label": "Trọng lượng",
+          "value": "Cần xác nhận"
+        },
+        {
+          "label": "Thời lượng bay",
+          "value": "Cần xác nhận theo điều kiện bay"
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "photo-01",
+      "type": "image",
+      "category": "wedding",
+      "title": "Góc nhìn trên cao",
+      "description": "Thay bằng mô tả dự án thực tế.",
+      "src": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "video-01",
+      "type": "video",
+      "category": "event",
+      "title": "Video Flycam sự kiện",
+      "description": "Thay bằng video thực tế của Min Media.",
+      "src": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "video-02",
+      "type": "video",
+      "category": "travel",
+      "title": "Video Flycam ngoại cảnh",
+      "description": "Thay bằng video thực tế của Min Media.",
+      "src": "",
+      "thumbnail": ""
+    }
+  ],
+  "contact": {
+    "title": "Bạn có dự án cần quay Flycam?",
+    "description": "Liên hệ Min Media để trao đổi về địa điểm, ý tưởng và phương án quay phù hợp.",
+    "path": "/contact"
+  }
+}
