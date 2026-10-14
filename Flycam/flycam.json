@@ -59,11 +59,13 @@
     "title": "Thư viện hình ảnh Flycam",
     "description": "Những khung hình thực tế được ghi lại trong các dự án của Min Media."
   },
-  "videos": [
+ "videos": [
   {
     "id": "video-01",
     "title": "Flycam lễ cưới",
-    "description": "Video dự án thực tế.",
+    "description": "Ghi lại những khoảnh khắc đáng nhớ trong ngày trọng đại qua góc nhìn từ trên cao, với những khung hình giàu cảm xúc và chuyển động điện ảnh.",
+    "category": "WEDDING FILM",
+    "projectLabel": "TÁC PHẨM NỔI BẬT",
     "youtubeUrl": "https://www.youtube.com/watch?v=BT5wowluQoU&list=PLssBC1_XRCA6vih4DINQ4LRjbyh2P6QxK",
     "thumbnail": ""
   }
