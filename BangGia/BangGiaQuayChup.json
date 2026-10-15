@@ -1,50 +1,37 @@
 
 {
-    "page": {
-        "eyebrow": "MINMEDIA WEDDING",
-        "title": "Bảng giá quay chụp cưới",
-        "description": "Lưu giữ những khoảnh khắc đáng nhớ trong ngày trọng đại.",
-        "sectionTitle": "Chọn gói dịch vụ của bạn",
-        "sectionDescription": "Bốn lựa chọn phù hợp với nhu cầu của từng cặp đôi."
+  "id": "silver",
+  "number": "01",
+  "title": "SILVER",
+  "subtitle": "Gói chụp và quay truyền thống",
+  "price": 6500000,
+  "originalPrice": 7000000,
+  "saving": 500000,
+  "services": [
+    {
+      "name": "1 chụp truyền thống (bên nhà trai)",
+      "price": "Bao gồm"
     },
-    "packages": [
-        {
-            "id": "silver",
-            "number": "01",
-            "title": "Silver",
-            "subtitle": "",
-            "services": [],
-            "completion": ""
-        },
-        {
-            "id": "gold",
-            "number": "02",
-            "title": "Gold",
-            "subtitle": "",
-            "services": [],
-            "completion": ""
-        },
-        {
-            "id": "platinum",
-            "number": "03",
-            "title": "Platinum",
-            "subtitle": "",
-            "services": [],
-            "completion": ""
-        },
-        {
-            "id": "diamond",
-            "number": "04",
-            "title": "Diamond",
-            "subtitle": "",
-            "services": [],
-            "completion": ""
-        }
-    ],
-    "videos": [],
-    "closing": {
-        "eyebrow": "LET'S MAKE MEMORIES",
-        "title": "Câu chuyện của bạn xứng đáng được lưu giữ.",
-        "description": "Liên hệ MinMedia để tìm gói dịch vụ phù hợp."
+    {
+      "name": "1 quay truyền thống (bên nhà trai)",
+      "price": "Bao gồm"
+    },
+    {
+      "name": "Hình truyền thống chỉnh sửa hoàn thiện",
+      "price": "Bao gồm"
+    },
+    {
+      "name": "Phim truyền thống chỉnh sửa hoàn thiện",
+      "price": "Bao gồm"
+    },
+    {
+      "name": "Tặng 100 tấm ảnh album in lụa",
+      "price": "Miễn phí"
+    },
+    {
+      "name": "Quay chụp lễ và tiệc không giới hạn",
+      "price": "Bao gồm"
     }
+  ],
+  "completion": "Khu vực tỉnh: phụ thu 500.000đ cho mỗi nhân sự."
 }
