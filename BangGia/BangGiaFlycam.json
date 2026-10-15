@@ -1,1 +1,56 @@
 
+
+{
+  "hero": {
+    "eyebrow": "MINMEDIA | AERIAL FILMMAKING",
+    "title": "GÓC NHÌN KHÁC.\nTRẢI NGHIỆM KHÁC.",
+    "description": "MinMedia mang đến dịch vụ quay flycam chuyên nghiệp, ghi lại những khoảnh khắc đáng nhớ với góc nhìn sáng tạo và hình ảnh ấn tượng.",
+    "buttonText": "Khám phá video",
+    "secondaryButtonText": "Liên hệ ngay"
+  },
+  "video": {
+    "url": "https://www.youtube.com/watch?v=Zccd25N7tRE",
+    "title": "MinMedia Aerial Showreel",
+    "description": "Khám phá những khoảnh khắc được ghi lại từ góc nhìn trên cao."
+  },
+  "packages": [
+    {
+      "id": "wedding",
+      "number": "01",
+      "name": "Flycam Wedding",
+      "description": "Ghi lại ngày trọng đại với những góc quay toàn cảnh đầy cảm xúc, lưu giữ kỷ niệm đáng nhớ trong ngày cưới.",
+      "features": [
+        "Quay toàn cảnh địa điểm tổ chức",
+        "Ghi lại các khoảnh khắc nổi bật",
+        "Góc quay trên cao sáng tạo",
+        "Hậu kỳ video theo thỏa thuận"
+      ]
+    },
+    {
+      "id": "team-building",
+      "number": "02",
+      "name": "Flycam Team Building",
+      "description": "Lưu giữ tinh thần đồng đội, quy mô chương trình và những khoảnh khắc sôi động trong các hoạt động tập thể.",
+      "features": [
+        "Quay toàn cảnh hoạt động",
+        "Ghi hình tập thể từ trên cao",
+        "Góc quay sáng tạo cho sự kiện",
+        "Hậu kỳ video theo thỏa thuận"
+      ]
+    }
+  ],
+  "price": {
+    "amount": 3000000,
+    "currency": "VND",
+    "label": "Gói dịch vụ từ"
+  },
+  "guarantees": [
+    "Thiết bị quay phù hợp với yêu cầu",
+    "Hậu kỳ chỉn chu theo thỏa thuận",
+    "Bàn giao sản phẩm đúng nội dung cam kết"
+  ],
+  "contact": {
+    "label": "Trao đổi về lịch quay",
+    "phone": ""
+  }
+}
