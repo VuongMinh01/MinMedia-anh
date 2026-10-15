@@ -1,0 +1,50 @@
+
+{
+    "page": {
+        "eyebrow": "MINMEDIA WEDDING",
+        "title": "Bảng giá quay chụp cưới",
+        "description": "Lưu giữ những khoảnh khắc đáng nhớ trong ngày trọng đại.",
+        "sectionTitle": "Chọn gói dịch vụ của bạn",
+        "sectionDescription": "Bốn lựa chọn phù hợp với nhu cầu của từng cặp đôi."
+    },
+    "packages": [
+        {
+            "id": "silver",
+            "number": "01",
+            "title": "Silver",
+            "subtitle": "",
+            "services": [],
+            "completion": ""
+        },
+        {
+            "id": "gold",
+            "number": "02",
+            "title": "Gold",
+            "subtitle": "",
+            "services": [],
+            "completion": ""
+        },
+        {
+            "id": "platinum",
+            "number": "03",
+            "title": "Platinum",
+            "subtitle": "",
+            "services": [],
+            "completion": ""
+        },
+        {
+            "id": "diamond",
+            "number": "04",
+            "title": "Diamond",
+            "subtitle": "",
+            "services": [],
+            "completion": ""
+        }
+    ],
+    "videos": [],
+    "closing": {
+        "eyebrow": "LET'S MAKE MEMORIES",
+        "title": "Câu chuyện của bạn xứng đáng được lưu giữ.",
+        "description": "Liên hệ MinMedia để tìm gói dịch vụ phù hợp."
+    }
+}
