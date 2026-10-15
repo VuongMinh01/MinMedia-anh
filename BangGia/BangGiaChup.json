@@ -1,1 +1,60 @@
+{
+  "page": {
+    "eyebrow": "MINMEDIA · WEDDING PHOTOGRAPHY",
+    "title": "Lưu giữ khoảnh khắc.",
+    "description": "Mỗi bức ảnh là một câu chuyện. MinMedia ghi lại những khoảnh khắc chân thật, cảm xúc và đáng nhớ trong ngày trọng đại của bạn.",
+    "sectionTitle": "Bảng giá dịch vụ",
+    "sectionDescription": "Lựa chọn gói chụp phù hợp với ngày vui của bạn."
+  },
+  "packages": [
+    {
+      "id": "truyen-thong",
+      "number": "01",
+      "name": "Gói chụp truyền thống",
+      "subtitle": "Trang trọng · Đầy đủ nghi thức",
+      "image": "truyenThong",
+      "items": [
+        {
+          "name": "1 máy chụp truyền thống lễ - tiệc sáng trưa",
+          "price": 2500000
+        },
+        {
+          "name": "1 máy chụp truyền thống lễ - tiệc sáng chiều",
+          "price": 3000000
+        },
+        {
+          "name": "2 máy chụp truyền thống lễ + tiệc",
+          "price": 5000000
+        }
+      ],
+      "completion": "Bàn giao sản phẩm hoàn thiện"
+    },
+    {
+      "id": "phong-su",
+      "number": "02",
+      "name": "Gói chụp phóng sự",
+      "subtitle": "Tự nhiên · Cảm xúc · Chân thật",
+      "image": "phongSu",
+      "items": [
+        {
+          "name": "1 máy chụp phóng sự lễ - tiệc sáng trưa",
+          "price": 3000000
+        },
+        {
+          "name": "1 máy chụp phóng sự lễ - tiệc sáng chiều",
+          "price": 4000000
+        },
+        {
+          "name": "2 máy chụp phóng sự lễ + tiệc",
+          "price": 6000000
+        }
+      ],
+      "completion": "Bàn giao sản phẩm hoàn thiện"
+    }
+  ],
+  "gallery": {
+    "title": "Những khoảnh khắc đáng nhớ",
+    "description": "Từ những khung hình trang trọng đến những khoảnh khắc tự nhiên đầy cảm xúc."
+  }
+}
 
