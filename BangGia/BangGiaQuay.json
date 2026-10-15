@@ -1,54 +1,227 @@
-
 {
   "page": {
     "eyebrow": "MinMin Wedding - Phóng Sự Cưới",
     "title": "Kể câu chuyện ngày cưới qua từng thước phim.",
     "description": "Lưu giữ những khoảnh khắc ý nghĩa trong ngày trọng đại bằng phong cách quay truyền thống chỉn chu và phim phóng sự giàu cảm xúc.",
-    "sectionTitle": "Bảng giá dịch vụ quay phim",
-    "sectionDescription": "Hai phong cách ghi hình, cùng hướng đến những kỷ niệm đáng nhớ."
+    "sectionTitle": "Bảng giá dịch vụ trọn gói",
+    "sectionDescription": "Silver · Gold · Platinum · Diamond"
   },
   "packages": [
     {
-      "id": "truyen-thong",
-      "number": "01",
-      "title": "Gói quay truyền thống",
-      "subtitle": "Đầy đủ nghi thức · Trang trọng",
-      "services": [
+      "id": "silver",
+      "name": "Silver",
+      "price": 6500000,
+      "currency": "VND",
+      "savings": 500000,
+      "staff": [
         {
-          "name": "1 máy quay truyền thống lễ - tiệc sáng trưa",
-          "price": 2500000
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
         },
         {
-          "name": "1 máy quay truyền thống lễ - tiệc sáng chiều",
-          "price": 3500000
-        },
-        {
-          "name": "2 máy quay truyền thống lễ + tiệc",
-          "price": 5500000
+          "role": "videographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
         }
       ],
-      "completion": "Bàn giao sản phẩm hoàn thiện"
+      "deliverables": [
+        {
+          "name": "Hình TT chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Phim TT chỉnh hoàn thiện",
+          "type": "video"
+        },
+        {
+          "name": "Album in lụa",
+          "type": "album",
+          "quantity": 100,
+          "unit": "tấm",
+          "included": true
+        }
+      ],
+      "unlimited_event_coverage": true,
+      "provincial_surcharge": {
+        "amount": 500000,
+        "currency": "VND",
+        "per": "nhan_su"
+      }
     },
     {
-      "id": "phong-su",
-      "number": "02",
-      "title": "Gói quay phóng sự",
-      "subtitle": "Tự nhiên · Chân thật · Cảm xúc",
-      "services": [
+      "id": "gold",
+      "name": "Gold",
+      "price": 9500000,
+      "currency": "VND",
+      "savings": 2000000,
+      "staff": [
         {
-          "name": "1 máy quay phóng sự lễ - tiệc sáng trưa",
-          "price": 3500000
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
         },
         {
-          "name": "1 máy quay phóng sự lễ - tiệc sáng chiều",
-          "price": 4500000
+          "role": "videographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
         },
         {
-          "name": "2 máy quay phóng sự lễ + tiệc",
-          "price": 7500000
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
         }
       ],
-      "completion": "Bàn giao sản phẩm hoàn thiện"
+      "deliverables": [
+        {
+          "name": "Hình PS chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Phim TT chỉnh hoàn thiện",
+          "type": "video"
+        },
+        {
+          "name": "Album in lụa",
+          "type": "album",
+          "quantity": 100,
+          "unit": "tấm",
+          "included": true
+        }
+      ],
+      "unlimited_event_coverage": true,
+      "provincial_surcharge": {
+        "amount": 500000,
+        "currency": "VND",
+        "per": "nhan_su"
+      }
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "price": 10500000,
+      "currency": "VND",
+      "savings": 2500000,
+      "staff": [
+        {
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "videographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        },
+        {
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        }
+      ],
+      "deliverables": [
+        {
+          "name": "Hình PS chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Phim PS chỉnh hoàn thiện",
+          "type": "video"
+        },
+        {
+          "name": "Album in lụa",
+          "type": "album",
+          "quantity": 100,
+          "unit": "tấm",
+          "included": true
+        }
+      ],
+      "unlimited_event_coverage": true,
+      "provincial_surcharge": {
+        "amount": 500000,
+        "currency": "VND",
+        "per": "nhan_su"
+      }
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "price": 15500000,
+      "currency": "VND",
+      "savings": 1500000,
+      "staff": [
+        {
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "videographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        },
+        {
+          "role": "videographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        }
+      ],
+      "deliverables": [
+        {
+          "name": "Hình PS chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện",
+          "type": "photo"
+        },
+        {
+          "name": "Phim PS dựng hoàn thiện",
+          "type": "video"
+        },
+        {
+          "name": "Phim TT chỉnh hoàn thiện",
+          "type": "video"
+        },
+        {
+          "name": "Album in lụa",
+          "type": "album",
+          "quantity": 200,
+          "unit": "tấm",
+          "included": true
+        }
+      ],
+      "unlimited_event_coverage": true,
+      "provincial_surcharge": {
+        "amount": 500000,
+        "currency": "VND",
+        "per": "nhan_su"
+      }
     }
   ],
   "videos": [
@@ -71,5 +244,7 @@
     "eyebrow": "YOUR STORY, OUR FILM",
     "title": "Ngày cưới chỉ diễn ra một lần. Hãy lưu giữ những khoảnh khắc đáng nhớ.",
     "description": "Liên hệ MinMedia để trao đổi về phong cách quay và gói dịch vụ phù hợp."
-  }
-}
+  },
+  "notes": {
+    "TT": "Thông tin theo tên gói dịch vụ do khách hàng cung cấp.",
+    "PS": "Thông tin theo tên
