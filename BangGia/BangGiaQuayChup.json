@@ -22,15 +22,181 @@
       ],
       "deliverables": [
         {
+          "name": "1 chụp TT (bên nhà trai)"
+        },
+        {
+          "name": "1 quay TT (bên nhà trai)"
+        },
+        {
           "name": "Hình TT chỉnh hoàn thiện"
         },
         {
           "name": "Phim TT chỉnh hoàn thiện"
         },
         {
-          "name": "Album in lụa",
-          "quantity": 100,
-          "unit": "tấm"
+          "name": "Tặng 100 tấm album in lụa"
+        }
+      ],
+      "unlimited_event_coverage": true
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "price": 9500000,
+      "savings": 2000000,
+      "staff": [
+        {
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        },
+        {
+          "role": "videographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        }
+      ],
+      "deliverables": [
+        {
+          "name": "1 chụp TT (bên nhà trai)"
+        },
+        {
+          "name": "1 quay TT (bên nhà trai)"
+        },
+        {
+          "name": "1 chụp PS (bên nhà gái)"
+        },
+        {
+          "name": "Hình PS chỉnh hoàn thiện"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện"
+        },
+        {
+          "name": "Phim TT chỉnh hoàn thiện"
+        },
+        {
+          "name": "Tặng 100 tấm album in lụa"
+        }
+      ],
+      "unlimited_event_coverage": true
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "price": 10500000,
+      "savings": 2500000,
+      "staff": [
+        {
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        },
+        {
+          "role": "videographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        }
+      ],
+      "deliverables": [
+        {
+          "name": "1 chụp TT (bên nhà trai)"
+        },
+        {
+          "name": "1 quay PS (bên nhà gái)"
+        },
+        {
+          "name": "1 chụp PS (bên nhà gái)"
+        },
+        {
+          "name": "Hình PS chỉnh hoàn thiện"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện"
+        },
+        {
+          "name": "Phim PS chỉnh hoàn thiện"
+        },
+        {
+          "name": "Tặng 100 tấm album in lụa"
+        }
+      ],
+      "unlimited_event_coverage": true
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "price": 15500000,
+      "savings": 1500000,
+      "staff": [
+        {
+          "role": "photographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "videographer",
+          "type": "TT",
+          "quantity": 1,
+          "location": "nha_trai"
+        },
+        {
+          "role": "photographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        },
+        {
+          "role": "videographer",
+          "type": "PS",
+          "quantity": 1,
+          "location": "nha_gai"
+        }
+      ],
+      "deliverables": [
+        {
+          "name": "1 chụp TT (bên nhà trai)"
+        },
+        {
+          "name": "1 quay TT (bên nhà trai)"
+        },
+        {
+          "name": "1 chụp PS (bên nhà gái)"
+        },
+        {
+          "name": "1 quay PS (bên nhà gái)"
+        },
+        {
+          "name": "Hình PS chỉnh hoàn thiện"
+        },
+        {
+          "name": "Hình TT chỉnh hoàn thiện"
+        },
+        {
+          "name": "Phim PS dựng hoàn thiện"
+        },
+        {
+          "name": "Phim TT chỉnh hoàn thiện"
+        },
+        {
+          "name": "Tặng 200 tấm album in lụa"
         }
       ],
       "unlimited_event_coverage": true
