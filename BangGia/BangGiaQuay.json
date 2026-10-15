@@ -1,43 +1,75 @@
-
 {
   "page": {
-    "eyebrow": "MINMEDIA WEDDING",
-    "title": "BẢNG GIÁ QUAY PHIM CƯỚI",
-    "description": "Lưu giữ những khoảnh khắc đáng nhớ trong ngày trọng đại.",
-    "sectionTitle": "Các gói dịch vụ",
-    "sectionDescription": "Lựa chọn gói quay phim phù hợp với ngày cưới của bạn."
+    "eyebrow": "MINMEDIA · WEDDING FILM",
+    "eyebrow": "MinMin Wedding - Phóng Sự Cưới",
+    "title": "Kể câu chuyện ngày cưới qua từng thước phim.",
+    "description": "Lưu giữ những khoảnh khắc ý nghĩa trong ngày trọng đại bằng phong cách quay truyền thống chỉn chu và phim phóng sự giàu cảm xúc.",
+    "sectionTitle": "Bảng giá dịch vụ quay phim",
+    "sectionDescription": "Hai phong cách ghi hình, cùng hướng đến những kỷ niệm đáng nhớ."
   },
   "packages": [
     {
-      "id": "goi-01",
+      "id": "truyen-thong",
       "number": "01",
-      "title": "Gói quay phim truyền thống",
-      "subtitle": "Ghi lại những khoảnh khắc trong ngày cưới",
+      "title": "Gói quay truyền thống",
+      "subtitle": "Đầy đủ nghi thức · Trang trọng",
       "services": [
         {
-          "name": "Quay phim lễ",
-          "price": "Liên hệ"
+          "name": "1 máy quay truyền thống lễ - tiệc sáng trưa",
+          "price": 2500000
         },
         {
-          "name": "Dựng phim hoàn thiện",
-          "price": "Bao gồm"
+          "name": "1 máy quay truyền thống lễ - tiệc sáng chiều",
+          "price": 3500000
+        },
+        {
+          "name": "2 máy quay truyền thống lễ + tiệc",
+          "price": 5500000
         }
       ],
-      "completion": "Thời gian bàn giao theo thỏa thuận."
+      "completion": "Bàn giao sản phẩm hoàn thiện"
+    },
+    {
+      "id": "phong-su",
+      "number": "02",
+      "title": "Gói quay phóng sự",
+      "subtitle": "Tự nhiên · Chân thật · Cảm xúc",
+      "services": [
+        {
+          "name": "1 máy quay phóng sự lễ - tiệc sáng trưa",
+          "price": 3500000
+        },
+        {
+          "name": "1 máy quay phóng sự lễ - tiệc sáng chiều",
+          "price": 4500000
+        },
+        {
+          "name": "2 máy quay phóng sự lễ + tiệc",
+          "price": 7500000
+        }
+      ],
+      "completion": "Bàn giao sản phẩm hoàn thiện"
     }
   ],
   "videos": [
     {
-      "id": "video-01",
+      "id": "traditional-film",
       "number": "01",
-      "title": "Video cưới tiêu biểu",
-      "description": "Một sản phẩm quay phim của MinMedia.",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID"
+      "title": "Phim truyền thống",
+      "description": "Ghi lại đầy đủ những nghi thức và khoảnh khắc quan trọng trong ngày cưới.",
+      "url": "https://www.youtube.com/watch?v=5pSaDc7oSDo&t=3s"
+    },
+    {
+      "id": "documentary-film",
+      "number": "02",
+      "title": "Phim phóng sự",
+      "description": "Những khoảnh khắc tự nhiên, cảm xúc và câu chuyện chân thật của ngày vui.",
+      "url": "https://www.youtube.com/watch?v=cC4Zd-qYHa0&t=262s"
     }
   ],
   "closing": {
-    "eyebrow": "MINMEDIA WEDDING",
-    "title": "Cùng bạn lưu giữ khoảnh khắc",
-    "description": "Liên hệ MinMedia để được tư vấn gói dịch vụ."
+    "eyebrow": "YOUR STORY, OUR FILM",
+    "title": "Ngày cưới chỉ diễn ra một lần. Hãy lưu giữ những khoảnh khắc đáng nhớ.",
+    "description": "Liên hệ MinMedia để trao đổi về phong cách quay và gói dịch vụ phù hợp."
   }
 }
