@@ -21,7 +21,7 @@
         {
           "name": "1 Máy Chụp Truyền Thống Lễ + Tiệc",
           "price": 3000000
-        },
+        }
       ],
       "completion": "Bàn giao sản phẩm hoàn thiện"
     },
@@ -39,8 +39,7 @@
         {
           "name": "1 Máy Chụp Phóng Sự Lễ + Tiệc",
           "price": 4500000
-        },
-
+        }
       ],
       "completion": "Bàn giao sản phẩm hoàn thiện"
     }
