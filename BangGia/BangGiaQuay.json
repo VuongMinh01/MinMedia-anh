@@ -21,7 +21,7 @@
         {
           "name": "1 Máy Quay Truyền Thống Lễ + Tiệc",
           "price": 3500000
-        },
+        }
       ],
       "completion": "Bàn giao sản phẩm hoàn thiện"
     },
@@ -49,7 +49,7 @@
       "number": "01",
       "title": "Phim truyền thống",
       "description": "Ghi lại đầy đủ những nghi thức và khoảnh khắc quan trọng trong ngày cưới.",
-      "url": "youtube.com/watch?si=ZkCIwr4-MjJf3l1M&v=11v5hcn62ig&feature=youtu.be"
+      "url": "https://www.youtube.com/watch?si=ZkCIwr4-MjJf3l1M&v=11v5hcn62ig&feature=youtu.be"
     },
     {
       "id": "documentary-film",
