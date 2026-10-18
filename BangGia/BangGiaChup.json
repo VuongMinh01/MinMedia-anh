@@ -4,13 +4,13 @@
     "title": "Lưu giữ khoảnh khắc.",
     "description": "Mỗi bức ảnh là một câu chuyện. MinMedia ghi lại những khoảnh khắc chân thật, cảm xúc và đáng nhớ trong ngày trọng đại của bạn.",
     "sectionTitle": "Bảng giá dịch vụ",
-    "sectionDescription": "Lựa chọn gói chụp phù hợp với ngày vui của bạn."
+    "sectionDescription": "Lựa chọn máy chụp phù hợp với ngày vui của bạn."
   },
   "packages": [
     {
       "id": "truyen-thong",
       "number": "01",
-      "name": "Gói chụp truyền thống",
+      "name": "Giá chụp truyền thống",
       "subtitle": "Trang trọng · Đầy đủ nghi thức",
       "image": "right",
       "items": [
