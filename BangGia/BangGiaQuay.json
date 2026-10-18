@@ -12,11 +12,11 @@
     {
       "id": "truyen-thong",
       "number": "01",
-      "title": "Gói quay truyền thống",
+      "title": "Giá quay truyền thống",
       "subtitle": "Đầy đủ nghi thức · Trang trọng",
       "services": [
         {
-          "name": "1 Máy Quay Truyền Thông Lễ hoặc Tiệc",
+          "name": "1 Máy Quay Truyền Thống Lễ hoặc Tiệc",
           "price": 3000000
         },
         {
@@ -29,7 +29,7 @@
     {
       "id": "phong-su",
       "number": "02",
-      "title": "Gói quay phóng sự",
+      "title": "Giá quay phóng sự",
       "subtitle": "Tự nhiên · Chân thật · Cảm xúc",
       "services": [
         {
